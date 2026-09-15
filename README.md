@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Nirmala!
 
-<!--
-**Nirmala617/Nirmala617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BTech Computer Science Student | React.js Developer | Full-Stack Developer
 
-Here are some ideas to get you started:
+> 🚀 Building real-world software, solving problems, and continuously learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 BTech Computer Science Student
+- ⚛️ React.js Developer
+- 🌱 Currently learning Full-Stack Development
+- 🧠 Strengthening Data Structures & Algorithms
+- 🤖 Exploring AI-assisted software development
+- 🚀 Building real-world projects
+- 🎯 Preparing for software engineering opportunities
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nirmala617/Nirmala617/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Data Structures & Algorithms
+            ↓
+Backend Development
+            ↓
+Databases & APIs
+            ↓
+System Design
+            ↓
+AI-Assisted Development
+            ↓
+Distributed Systems
